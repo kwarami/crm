@@ -16,7 +16,7 @@ add_to_apps_screen = [
 	{
 		"name": "crm",
 		"logo": "/assets/crm/images/logo.svg",
-		"title": "CRM",
+		"title": "BRIDGE",
 		"route": "/crm",
 		"has_permission": "crm.api.check_app_permission",
 	}
